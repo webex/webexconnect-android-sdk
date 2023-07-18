@@ -38,4 +38,4 @@ Both the SDKs are independent of each other. You can use either one of them depe
 
 &copy; 2000-2023 Cisco Systems, Inc. and/or its affiliates. All Rights Reserved.
 
-See [LICENSE](https://github.com/webex/wxconnect-core-android-sdk/blob/master/LICENSE) for details.
+See [LICENSE](https://github.com/webex/wxconnect-core-android-sdk/blob/main/LICENSE) for details.
