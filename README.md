@@ -40,19 +40,6 @@ Both the SDKs are independent of each other. You can use either one of them depe
 | Quick Start Guide | [Link](https://developers.webexconnect.io/docs/quickstart-guide-2) | [Link](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide) |
 | SDK Migration from 2.x to 3.x | [Link](https://developers.webexconnect.io/docs/android-sdk-migration-document-from-2x-to-3x)||
 
-## Build & Setup
-
-For build prerequisites, scripts, Jenkins pipeline, and test commands, see [docs/BUILD.md](docs/BUILD.md).
-
-## For Contributors
-
-| Document | Purpose |
-|----------|---------|
-| [WORKFLOW.md](WORKFLOW.md) | Git conventions, contribution workflow, release process |
-| [RULES.md](RULES.md) | Coding standards, testing, security, naming conventions |
-| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | System architecture, module boundaries, design patterns |
-| [AGENTS.md](AGENTS.md) | AI agent rules and module contracts |
-
 ## Support
 
 - [Webex Connect Support](https://developers.imiconnect.io/docs/imiconnect-support)
